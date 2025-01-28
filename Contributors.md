@@ -4070,6 +4070,7 @@ Ayan Das
 - [Austin E] (https://github.com/AfreAustin)
 - [Roman Grishin] (https://github.com/OddyHater)
 - [uthline](https://github.com/uthline)
+- [Kentaro](https://github.com/MoriMomo)
 - [Patil Krishna Reddy](https://github.com/Krishna1081)
 - [Shubham Dubey](https://github.com/RebellionR2)
 - [Christopher Sandiko](https://github.com/cmsandiko)
